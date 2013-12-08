@@ -8,7 +8,7 @@
 
     <div id="content" class="col3">
 
-    <div id="modulecontainerline"><!--getting started content starts heres -->
+    <div id="modulecontainerline"><!--getting started content starts here now--> 
 
     <!-- NCT:  use outputText to unescape the HTML within the XML CDATA -->
     <apex:outputText value="{!MainBody}" escape="false"/>
